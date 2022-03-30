@@ -6,5 +6,5 @@ This Repository contains many projects that I have built in the last 4 months. T
 
 ## Python
 For Python I have made two directories.
-[Basics of Python](../Python Basics)
+[Basics of Python](Python Basics)
 [Python for Data Science](Python for Data Science)
