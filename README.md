@@ -6,8 +6,22 @@ This Repository contains many projects that I have built in the last 4 months. T
 
 ## Python
 For Python I have made two directories.
+1. [Basics of Python](Python%20Basics)
+2. [Python for Data Science](Python%20for%Data%Science)
 
-[Internal Link](Python%20Basics)
+### [Basics of Python](Python%20Basics)
+This directory covers my understanding of Python as a language in the form of my notes that I keep regularly updating for my refrence
 
-[Internal Link](Python Basics)
+### [Python for Data Science](Python%20for%Data%Science)
+This directory contains my knowledge in the form of practice codes of all the major libraries that are extensively used by Data Scientists. Including Numpy, Pandas, Matplotlib, Seaborn, Plotly, etc
+
+## SQL
+The SQL directory is divided into two parts
+1. [Theory](SQL/Theory)
+2. [Case Studies](SQL/Case%20Study)
+
+### [Theory](SQL/Theory)
+This section contains my notes on SQL. They contains notes on Sql Scripts as well as the theory of SQL.
+
+### [Case Studies](SQL/Case%20Study)
 
