@@ -24,4 +24,4 @@ The SQL directory is divided into two parts
 This section contains my notes on SQL. They contains notes on Sql Scripts as well as the theory of SQL.
 
 ### [Case Studies](SQL/Case%20Study)
-
+The case studies are to showcase my application capability of the SQL Theory. In many of them I have given them a narative of a story aligning them with a business use-case for a company.
