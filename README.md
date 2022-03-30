@@ -9,3 +9,5 @@ For Python I have made two directories.
 
 [Internal Link](Python Basics)
 
+[Internal Link](Python Basics)
+
