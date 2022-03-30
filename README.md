@@ -5,6 +5,8 @@ This Repository contains many projects that I have built in the last 4 months. T
 *Declaration - Every Line of Code or theory that is contained in ths repository is written by me and not copy pasted from anywhere. I have however taken refrences from the various courses that I have done.*
 
 ## Python
+<img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/newpythonlogo.png height width = '200' height = '100'/>
+
 For Python I have made two directories.
 1. [Basics of Python](Python%20Basics)
 2. [Python for Data Science](Python%20for%Data%Science)
@@ -16,6 +18,8 @@ This directory covers my understanding of Python as a language in the form of my
 This directory contains my knowledge in the form of practice codes of all the major libraries that are extensively used by Data Scientists. Including Numpy, Pandas, Matplotlib, Seaborn, Plotly, etc
 
 ## SQL
+<img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/Sql_data_base_with_logo.png height width = '200' height = '100'/>
+
 The SQL directory is divided into two parts
 1. [Theory](SQL/Theory)
 2. [Case Studies](SQL/Case%20Study)
