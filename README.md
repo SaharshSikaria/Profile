@@ -8,7 +8,7 @@ This Repository contains many projects that I have built in the last 4 months. T
 
 For Python I have made two directories.
 1. [Basics of Python](Python%20Basics)
-2. [Python for Data Science](Python%for%Data%Science)
+2. [Python for Data Science](../Python%for%Data%Science)
 
 ### [Basics of Python](Python%20Basics)
 This directory covers my understanding of Python as a language in the form of my notes that I keep regularly updating for my refrence
