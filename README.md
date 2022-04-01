@@ -8,12 +8,12 @@ This Repository contains many projects that I have built in the last 4 months. T
 
 For Python I have made two directories.
 1. [Basics of Python](Python%20Basics)
-2. [Python for Data Science](../Python%for%Data%Science)
+2. [Python for Data Science](Python%20for%20Data%20Science)
 
 ### [Basics of Python](Python%20Basics)
 This directory covers my understanding of Python as a language in the form of my notes that I keep regularly updating for my refrence
 
-### [Python for Data Science](Python%20for%Data%Science)
+### [Python for Data Science](Python%20for%20Data%20Science)
 This directory contains my knowledge in the form of practice codes of all the major libraries that are extensively used by Data Scientists. Including Numpy, Pandas, Matplotlib, Seaborn, Plotly, etc
 ***
 <img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/Sql_data_base_with_logo.png height width = '200' height = '100'/>
