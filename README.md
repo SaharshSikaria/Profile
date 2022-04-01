@@ -47,8 +47,10 @@ This contains my notes on each of the Machine Learning Algorithm that I have stu
 
 Along with theory, there are also a ipynb file that has a basic implementation on a easy dataset without much effort. The purpose of this implementation is just for refrence.
 
+Apart form the algorithms there is so much in machine learning to read about. Even EDA can have 100 topics or concept. So, I have made several directories or Jupyter Notebook files giving the overview of many such topics or concepts.
+
 ### [Machine Learning Projects](ML%20Theory)
-This contains the Jupyter Notebook files for various Projects that I have done as a part of my learning Experience. I hve tried making projects for every Machine Learning Algorithm. I mean to say, that for every Machine Learning Algorithm, I took up a relevant data set and applied the algorithm. With this approach you will be able to see my understandig of every Algorithm. Plus, you will be also able to judge my understanding if the nitty-gritties of the particular Algorithm.
+This contains the Jupyter Notebook files for various Projects that I have done as a part of my learning experience. I have tried making projects for every Machine Learning Algorithm. I mean to say, that for every Machine Learning Algorithm, I took up a relevant data set and applied the algorithm in aim to solve a problem. With this approach you will be able to see my understandig of every Algorithm. Plus, you will also be able to judge my understanding of the nitty-gritties of a particular Algorithm.
 
 In every project I have tried to demonstrate a parallel technique of machine learning along with the algorithm. By parallel technique, I mean techniques such as HyperParameter Tuning, Data Normalisation, Overfitting and Underfitting, Establishment of Data Pipelines, etc.
 
