@@ -30,3 +30,21 @@ Following steps have been impleted in this project
 4. Building the model
 5. Error Evaluation
 ```
+## K Nearest Neighbour
+*Dataset Used - Classified Data from a company*
+
+[K Nearest Neighbour Implementation](K%20Nearest%20Neighbors%20Project.ipynb)
+
+**About The Project**
+
+In this project, we try to we have taken a classified data, i.e. data where the feature names hav been hidden. We have been given a target class however. It will be our goal to create a model to predict the target class given the same features for a new entry.
+
+```
+Following steps have been impleted in this project
+1. Loading and inspecting the Dataset
+2. Performing Exploratory Data Analysis
+3. Standardizing the Variables using StandardScalar
+4. Building the model
+5. Error Evaluation
+6. Identifying the best K value using the elbow method.
+```
