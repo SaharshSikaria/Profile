@@ -3,8 +3,8 @@
 Dataset Used - Housing Data From Kaggle
 
 I have implemented it in two forms.
-1. [As a Project](ML%20Projects/Linear%20Regression%20-%20Housing%20Prices.ipynb)
-2. [Using a Data Pipeline](ML%20Projects/Linear%20Regression%20-%20Data%20Pipeline%20Implementation%20-%20Housing%20Data%20Project%20.ipynb)
+1. [As a Project](Linear%20Regression%20-%20Housing%20Prices.ipynb)
+2. [Using a Data Pipeline](Linear%20Regression%20-%20Data%20Pipeline%20Implementation%20-%20Housing%20Data%20Project%20.ipynb)
 
 **They both have their respective benefits.**
 
