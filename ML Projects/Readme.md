@@ -20,6 +20,7 @@ The **Data Pipeline approach** makes the code much cleaner, leaves scope for few
 [Logistic Regression Implementation](Logistic%20Regression%20Project.ipynb)
 
 **About The Project**
+
 Following steps have been impleted in this project
 1. Loading and inspecting the Dataset
 2. Performing Exploratory Data Analysis
