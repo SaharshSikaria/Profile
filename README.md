@@ -4,6 +4,21 @@ This Repository contains many projects that I have built in the last 1 month. Th
 
 *Declaration - Every Line of Code or theory contained in this repository is written by me and not copy-pasted from anywhere. I have, however, taken references from the various courses that I have done.*
 ***
+<img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/machine-banner.png height width = '200' height = '100'/>
+
+For Machine Learning, I have made two directories
+1. Theory of Machine Learning
+2. [Machine Learning Projects](ML%20Projects)
+
+Let us first focus on some of the Machine Learning Projects
+
+### [Machine Learning Projects](ML%20Theory)
+This contains the Jupyter Notebook files for various projects that I have done as a part of my learning experience. I have tried doing projects for every Machine Learning Algorithm. I mean to say that for every Machine Learning Algorithm, I took up a relevant data set and applied the algorithm with the aim to solve a problem. With this approach, you will be able to see my understanding of every Algorithm. Plus, you will also be able to judge my understanding of the nitty-gritty of a particular Algorithm.
+
+In every project, I have tried to demonstrate a parallel machine learning technique and the algorithm. By parallel technique, I mean techniques such as HyperParameter Tuning, Data Normalisation, Overfitting and Underfitting, Establishment of Data Pipelines, etc.
+
+The Jupyter Notebook for Every Project is very detailed and I have given the project overview in the readme file of the directory itself.
+***
 <img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/newpythonlogo.png height width = '200' height = '100'/>
 
 For Python I have made two directories.
