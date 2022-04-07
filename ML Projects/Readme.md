@@ -22,11 +22,11 @@ The **Data Pipeline approach** makes the code much cleaner, leaves scope for few
 **About The Project**
 
 In this Project, we take the user log of a website along with the marker if they clicked on a particular Advertisement or not. With the help of a Logistic Regression model, we will try to predict whether or not they will click on an Ad based off the features of that user and of that advertisement. 
-
+```
 Following steps have been impleted in this project
 1. Loading and inspecting the Dataset
 2. Performing Exploratory Data Analysis
 3. Feature Analysis and Identification for the model
 4. Building the model
 5. Error Evaluation
-
+```
