@@ -1,5 +1,10 @@
 # Advance Excel
-## Canadian Superstore - Sales Data Analysis
+## Contents
+[Case 1 - Canadian Super Store - Sales Data Analysis](#canadian-super-store---sales-data-analysis)</br>
+[Case 2 - Bank Telemarketing Data Analysis](#bank-telemarketing-data-analysis)
+
+***
+## Canadian Super Store - Sales Data Analysis
 **Please Download the Excel files and look at them for more clarity**
 
 [Raw CSV file](canadian_superstore_sales.csv)</br>
@@ -41,7 +46,7 @@ Methodology -
 **QUERRY** - Identify the Least profitable sub categories overall and by reagion.
 
 Methodology - Using the same two tables as above we can Identify these.
-
+***
 ## Bank Telemarketing Data Analysis
 **Please Download the Excel files and look at them for more clarity**
 
