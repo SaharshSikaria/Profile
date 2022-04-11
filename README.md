@@ -50,7 +50,7 @@ The SQL directory is divided into two parts
 ### [Theory](SQL/Theory)
 This section contains my notes on SQL. They contains notes on Sql Scripts as well as the theory of SQL.
 
-### [Case Studies](SQL/Case%20Studies)
+### [Case Studies](SQL/Case%20Studies/Readme.md)
 The case studies are to showcase my application capability of the SQL Theory. In many of them, I have given them a narrative of a story aligning them with a business use-case for a company.
 ***
 <img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/cr%3Dt_0%25%2Cl_0%25%2Cw_100%25%2Ch_100%25.webp height width = '200' height = '100'/>
