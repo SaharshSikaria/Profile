@@ -1,5 +1,5 @@
 # Advance Excel
-## Case 1 - Canadian Superstore - Sales Data Analysis
+## Canadian Superstore - Sales Data Analysis
 **Please Download the Excel files and look at them for more clarity**
 
 [Raw CSV file](canadian_superstore_sales.csv)</br>
@@ -42,3 +42,26 @@ Methodology -
 
 Methodology - Using the same two tables as above we can Identify these.
 
+## Bank Telemarketing Data Analysis
+**Please Download the Excel files and look at them for more clarity**
+
+[Raw CSV file]()</br>
+[Final Edited file]()
+
+Description of Data
+In this case we have data from the telemarketing team of a bank which sells loans to the customers. The objective of the analysis is to find target segments that respond really well to the loan proposition and at the same time identify target segments that do not respond to the proposition at all. This will help the telemarketing team to improve their efficiency.
+
+The Primary Methodology used in this analysis is **bucketing**. That is dividing the entries into buckets and analysing the response rate of each busket
+
+Following steps were taken by me to identify the target segments
+1. Identification of Relevent Features(columns)
+2. Creation of New columns based on the data
+   1. Age Group - Buckets of Age with width of 10 years using **ROUNDDOWN formula**
+   2. Eligible - Using **IF formula** creating an elligibility criteria based on age
+   3. Marital-Education - Creating a combine column of Marital and Education data to have **combined buckets**
+   4. Response - Converting the character response to **binary response** in order to have easy %Response calculation
+   5. Salary - Using **VLOOKUP** assigning average salary to the jobs.
+3. Identifying three major buckets - Age Group, Marital Status and Marital-Education
+4. Calculating the response rate using **AVERAGEIF Formula**.
+5. Using **Conditional Formatting** to better express the contrast between the response rates
+6. **Plotting a horizontal bar graph to visually see the response rate.**
