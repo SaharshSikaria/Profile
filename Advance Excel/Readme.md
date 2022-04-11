@@ -1,5 +1,6 @@
 # Advance Excel
 ## Case 1 - Canadian Superstore - Sales Data Analysis
+**Please Download the Excel files and look at them for more clarity**
 
 [Raw CSV file](canadian_superstore_sales.csv)</br>
 [Final Edited file](Canadian_SuperStore_Final.xlsx)
