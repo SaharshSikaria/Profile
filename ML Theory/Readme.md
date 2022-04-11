@@ -1,3 +1,4 @@
 # Machine Learning Theory
-This directory contains various ML Theories for effectively applying ML models
-## Under Construction
+
+## This file is Under Construction
+
