@@ -38,7 +38,7 @@ For Python I have made two directories.
 ### [Basics of Python](Python%20Basics)
 This directory covers my understanding of Python as a language in the form of my notes that I keep regularly updating for my reference
 
-### [Python for Data Science](Python%20for%20Data%20Science)
+### [Python for Data Science](Python%20for%20Data%20Science/Readme.md)
 This directory contains my knowledge in the form of practice codes of all the major libraries that are extensively used by Data Scientists. Including Numpy, Pandas, Matplotlib, Seaborn, Plotly, etc
 ***
 <img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/Sql_data_base_with_logo.png height width = '200' height = '100'/>
