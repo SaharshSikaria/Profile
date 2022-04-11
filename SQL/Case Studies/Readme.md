@@ -11,5 +11,5 @@ Each of the cases contains at least the following steps
 
 I have also given a narration to the case just to make it more relateable. Read the Readme file for the narrative. 
 
-## Case 1 - [Toy Story]()
+## Case 1 - [Toy Story](Toy%20Story%20Case%20Study/Readme.md)
 This case is based on a business which creates toy replicas and sells them as a wholesalers. 
