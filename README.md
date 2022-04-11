@@ -8,7 +8,7 @@ This Repository contains many projects that I have built in the last 1 month. Th
 
 For Machine Learning, I have made two directories
 1. [Machine Learning Projects](ML%20Projects/Readme.md)
-2. [Theory of Machine Learning](ML%20Theory)
+2. [Theory of Machine Learning](ML%20Theory/Readme.md)
 
 ### [Machine Learning Projects](ML%20Projects/Readme.md)
 This contains the Jupyter Notebook files for various projects that I have done as a part of my learning experience. I have tried doing projects for every Machine Learning Algorithm. I mean to say that for every Machine Learning Algorithm, I took up a relevant data set and applied the algorithm with the aim to solve a problem. With this approach, you will be able to see my understanding of every Algorithm. Plus, you will also be able to judge my understanding of the nitty-gritty of a particular Algorithm.
@@ -17,7 +17,7 @@ In every project, I have tried to demonstrate a parallel machine learning techni
 
 The Jupyter Notebook for Every Project is very detailed and I have given the project overview in the readme file of the directory itself.
 
-### [Machine Learning Theory](ML%20Theory)
+### [Machine Learning Theory](ML%20Theory/Readme.md)
 This contains my notes on each Machine Learning algorithms that I have studied. Each Algorithm is placed in a separate directory containing a readme file to navigate that directory easily. Every directory contains 
 1. Idea behind the algorithm 
 2. Brief overview of the math behind the algorithm 
@@ -33,7 +33,7 @@ Apart from the algorithms, there is so much in machine learning to read about. E
 
 For Python I have made two directories.
 1. [Basics of Python](Python%20Basics)
-2. [Python for Data Science](Python%20for%20Data%20Science)
+2. [Python for Data Science](Python%20for%20Data%20Science/Readme.md)
 
 ### [Basics of Python](Python%20Basics)
 This directory covers my understanding of Python as a language in the form of my notes that I keep regularly updating for my reference
