@@ -45,7 +45,7 @@ This directory contains my knowledge in the form of practice codes of all the ma
 
 The SQL directory is divided into two parts
 1. [Theory](SQL/Theory)
-2. [Case Studies](SQL/Case%20Study)
+2. [Case Studies](SQL/Case%20Studies)
 
 ### [Theory](SQL/Theory)
 This section contains my notes on SQL. They contains notes on Sql Scripts as well as the theory of SQL.
