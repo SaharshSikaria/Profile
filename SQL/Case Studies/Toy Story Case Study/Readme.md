@@ -1,5 +1,9 @@
 # SQL Case Study
-*Find the SQL file with all the commands used in this folder*
+*Find the SQL file with all the commands used in this folder*</br>
+*Find the [DDL Script](ToyStoryQueryFileDatabseCreation.sql) in this folder itself or click on the link*</br>
+*Find the [DML Script](ToyStoryQueryFileRunningQuerry.sql) in this folder itself or click on the link*
+
+*The data for this case has been procured online. The data has no copyright issues and it was freely available in the form of an Excel file.*
 
 ## Toy Store
 #### Online Toy replica wholesale business
