@@ -1,4 +1,4 @@
-# SQL Case Study
+# Toy Story Case Study
 *Find the SQL file with all the commands used in this folder*</br>
 *Find the [DDL Script](ToyStoryQueryFileDatabseCreation.sql) in this folder itself or click on the link*</br>
 *Find the [DML Script](ToyStoryQueryFileRunningQuerry.sql) in this folder itself or click on the link*
