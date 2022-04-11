@@ -4,7 +4,7 @@
 [Raw CSV file](canadian_superstore_sales.csv)</br>
 [Final Edited file](Canadian_SuperStore_Final.xlsx)
 
-The following Step by step process was taken by me to showcase basic report making skills - 
+### Report Making 
 
 1. **Importing the Data** - The data was available in CSV format. Directly importing with built-in Excel functionality was leading to problems in identification of column data type. Hence the import was made using the **Get Data function in Data Tab**.
 2. **Basic Formatting and Cleaning** - Adjusted column widths (by selecting the desired rows and using single double click). Secondly, changed the formating of the header row. Lastly, removed or hid unnessary columns.
@@ -15,7 +15,7 @@ The following Step by step process was taken by me to showcase basic report maki
 7. **Sorting** - Performed Custom Sort on three levels. First level of sort by Region (alphabetically), second level of sort by Province (alphabetically) and final level of sork by sales (decending order).
 8. **Conditional Formatting** - Within every Region, highlighted the top 10% orders by sales in light green fill and dark green border. Secondly, higllited the profits by green and losses by red.
 
-### Business Problem - 
+### Business Problem Solving
 **QUERRY** - Identify the top 3 profitable product sub-category across all region.</br>
 
 Methodology -
