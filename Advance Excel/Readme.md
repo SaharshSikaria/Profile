@@ -7,8 +7,8 @@
 ## Canadian Super Store - Sales Data Analysis
 **Please Download the Excel files and look at them for more clarity**
 
-[Raw CSV file](canadian_superstore_sales.csv)</br>
-[Final Edited file](Canadian_SuperStore_Final.xlsx)
+[Raw CSV file](Canadian_SuperStore_Sales.csv)</br>
+[Final Edited file](Canadian_SuperStore_Sales_Final.xlsx)
 
 ### Report Making 
 
@@ -50,8 +50,8 @@ Methodology - Using the same two tables as above we can Identify these.
 ## Bank Telemarketing Data Analysis
 **Please Download the Excel files and look at them for more clarity**
 
-[Raw CSV file]()</br>
-[Final Edited file]()
+[Raw CSV file](Bank_Marketing.csv)</br>
+[Final Edited file](Bank_Marketing_Final.xlsx)
 
 Description of Data
 In this case we have data from the telemarketing team of a bank which sells loans to the customers. The objective of the analysis is to find target segments that respond really well to the loan proposition and at the same time identify target segments that do not respond to the proposition at all. This will help the telemarketing team to improve their efficiency.
