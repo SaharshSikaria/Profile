@@ -1,8 +1,8 @@
 # Advance Excel
 ## Case 1 - Canadian Superstore - Sales Data Analysis
 
-[Raw CSV file]
-[Final Edited file]
+[Raw CSV file](canadian_superstore_sales.csv)</br>
+[Final Edited file](Canadian_SuperStore_Final.xlsx)
 
 The following Step by step process was taken by me to showcase basic report making skills - 
 
