@@ -55,7 +55,7 @@ The case studies are to showcase my application capability of the SQL Theory. In
 ***
 <img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/cr%3Dt_0%25%2Cl_0%25%2Cw_100%25%2Ch_100%25.webp height width = '200' height = '100'/>
 
-The [Advance Excel directory](Advance%20Excel) contains various case studies that I have conducted using MS-Excel. Every Case is further placed in a respective directory. In each directory, there is a separate readme file enlisting all the Excel methodologies/techniques that I have employed.
+The [Advance Excel directory](Advance%20Excel/Readme.md) contains various case studies that I have conducted using MS-Excel. Every Case is further placed in a respective directory. In each directory, there is a separate readme file enlisting all the Excel methodologies/techniques that I have employed.
 ***
 <img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/dbcfb1972c1f67549d873d5258085efc.png height width = '200' height = '100'/>
 
