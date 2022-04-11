@@ -7,10 +7,10 @@ This Repository contains many projects that I have built in the last 1 month. Th
 <img src = https://github.com/SaharshSikaria/ProfileinBuilding/blob/main/Images/machine-banner.png height width = '200' height = '100'/>
 
 For Machine Learning, I have made two directories
-1. [Machine Learning Projects](ML%20Projects)
+1. [Machine Learning Projects](ML%20Projects/Readme.md)
 2. [Theory of Machine Learning](ML%20Theory)
 
-### [Machine Learning Projects](ML%20Theory)
+### [Machine Learning Projects](ML%20Projects/Readme.md)
 This contains the Jupyter Notebook files for various projects that I have done as a part of my learning experience. I have tried doing projects for every Machine Learning Algorithm. I mean to say that for every Machine Learning Algorithm, I took up a relevant data set and applied the algorithm with the aim to solve a problem. With this approach, you will be able to see my understanding of every Algorithm. Plus, you will also be able to judge my understanding of the nitty-gritty of a particular Algorithm.
 
 In every project, I have tried to demonstrate a parallel machine learning technique and the algorithm. By parallel technique, I mean techniques such as HyperParameter Tuning, Data Normalisation, Overfitting and Underfitting, Establishment of Data Pipelines, etc.
